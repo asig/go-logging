@@ -1,3 +1,5 @@
+// Copyright 2015 Andreas Signer. All rights reserved.
+
 package logging
 
 import (
