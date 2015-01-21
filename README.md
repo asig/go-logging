@@ -9,3 +9,5 @@ go get github.com/asig/go-logging
 
 ## How to use
 TODO 
+
+Test for slack
